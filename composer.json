@@ -47,7 +47,7 @@
     },
     "extra": {
         "laravel": {
-            "dont-discover": ["laravel/dusk", "facade/ignition"]
+            "dont-discover": [ "facade/ignition"]
         }
     },
     "scripts": {
