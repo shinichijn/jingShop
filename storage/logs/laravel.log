@@ -3273,3 +3273,4 @@
 #53 C:\\Users\\chris\\Desktop\\PHP\\laravel-ecommerce-example-master\\laravel-ecommerce-example-master\\server.php(21): require_once('C:\\\\Users\\\\chris\\\\...')
 #54 {main}
 "} 
+[2020-07-20 04:13:35] local.ERROR: No Database connection yet in VoyagerServiceProvider loadAuth()  
