@@ -146,7 +146,7 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
-        Laravel\Dusk\DuskServiceProvider::class
+        Laravel\Dusk\DuskServiceProvider::class,
 
         /*
          * Package Service Providers...
