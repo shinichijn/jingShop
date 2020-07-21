@@ -13,10 +13,10 @@
 
         <!-- Styles -->
         <link rel="stylesheet" href="{{ secure_asset('css/app.css') }}">
-        <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
+        <link rel="stylesheet" href="{{ secure_asset('css/responsive.css') }}">
 
     </head>
-    <body>
+    <body> 
         <div id="app">
             <header class="with-background">
                 <div class="top-nav container">
