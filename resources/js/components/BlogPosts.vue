@@ -12,7 +12,7 @@
                             :url="post._links['wp:featuredmedia'][0].href">
                         </blog-image>
                     </a>
-                    <a :href="post.link"><h2 class="blog-title">{{ post.title.rendered }}</h2></a>
+                    <a :href="#"><h2 class="blog-title">{{ post.title.rendered }}</h2></a>
                     <div class="blog-description">{{ stripTags(post.excerpt.rendered) }}</div>
                 </div>
             </div>
