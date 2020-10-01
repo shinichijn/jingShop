@@ -7,7 +7,7 @@
 
             <div class="blog-posts">
                 <div v-for="post in posts" :key="post.id" class="blog-post">
-                    <a :href="post.link">
+                    <a :href="#">
                         <blog-image
                             :url="post._links['wp:featuredmedia'][0].href">
                         </blog-image>
