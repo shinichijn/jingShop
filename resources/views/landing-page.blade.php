@@ -84,7 +84,6 @@
 
             </div> <!-- end featured-section -->
 
-            <blog-posts></blog-posts>
 
             @include('partials.footer')
 
